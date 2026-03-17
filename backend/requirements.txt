@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+groq
+httpx
+sentence-transformers
+faiss-cpu
+numpy
+PyPDF2
+python-docx
+pandas
+openpyxl
+Pillow
+pytesseract
+python-dotenv
+python-multipart
